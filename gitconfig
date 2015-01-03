@@ -1,0 +1,11 @@
+[user]
+    name = guoqiao
+    email = guoqiao@gmail.com
+[alias]
+    st = status
+    ci = commit -v
+    co = checkout
+    br = branch
+    last = log -1 HEAD
+[push]
+	default = simple
